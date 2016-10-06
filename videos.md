@@ -1,2 +1,5 @@
-[Pacts to the Rescue]
+[Pacts to the Rescue - Beth Skurrie]
 (https://www.infoq.com/presentations/pact)
+
+[I've Pair Programmed for 30,000 Hours: Ask Me Anything! - Joe Moore]
+(https://www.infoq.com/presentations/panel-pair-programming)
