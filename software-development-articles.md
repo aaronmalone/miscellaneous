@@ -12,3 +12,6 @@
 
 [Consumer-Driven Contracts: A Service Evolution Pattern - martinfowler.com]
 (http://martinfowler.com/articles/consumerDrivenContracts.html)
+
+[Java Doesn’t Suck. You’re Just Using it Wrong. - James Ward]
+(http://www.jamesward.com/2014/12/03/java-doesnt-suck-youre-just-using-it-wrong)
