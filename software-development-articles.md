@@ -15,3 +15,6 @@
 
 [Java Doesn’t Suck. You’re Just Using it Wrong. - James Ward]
 (http://www.jamesward.com/2014/12/03/java-doesnt-suck-youre-just-using-it-wrong)
+
+[Early Impressions of Kotlin - Nat Pryce]
+(http://natpryce.com/articles/000815.html)
