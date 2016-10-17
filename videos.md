@@ -1,3 +1,6 @@
+[Part 1 of Functional Programming in JavaScript]
+(https://www.youtube.com/watch?v=BMUiFMZr7vk)
+
 [Pacts to the Rescue - Beth Skurrie]
 (https://www.infoq.com/presentations/pact)
 
