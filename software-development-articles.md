@@ -24,3 +24,6 @@
 
 [Early Impressions of Kotlin - Nat Pryce]
 (http://natpryce.com/articles/000815.html)
+
+[Why I abandoned Java in favour of Kotlin - Jan Vladimir Mostert]
+(https://hashnode.com/post/why-i-abandoned-java-in-favour-of-kotlin-ciuzhmecf09khdc530m1ghu6d)
